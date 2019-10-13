@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+   float a;
+   float b;
+
+   printf("Enter a number bitch");
+   scanf("%f",&a);
+   b=a*a*a;
+   printf("The cube root of %f is %f",a,b);
+
+   return 0;
+}
